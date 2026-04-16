@@ -1,0 +1,39 @@
+============================================================
+           DOSECALC PRO - LICENSE & EULA
+           Developed by SoluCore Tech
+============================================================
+
+Copyright (c) 2024 SoluCore Tech. All rights reserved.
+
+PORTUGUÊS:
+Esta é a Licença de Uso Final (EULA) para o software DoseCalc Pro.
+1. NATUREZA DO SOFTWARE: O DoseCalc Pro é estritamente uma ferramenta de 
+   auxílio matemático e armazenamento de dados. O desenvolvedor NÃO fornece 
+   banco de dados de medicamentos ou sugestões de dosagens.
+2. RESPONSABILIDADE: Toda e qualquer informação inserida é de responsabilidade 
+   exclusiva do usuário profissional habilitado. A conferência manual de 
+   todos os resultados é OBRIGATÓRIA antes de qualquer aplicação clínica.
+3. LIMITAÇÃO DE DANOS: A SoluCore Tech não se responsabiliza por decisões 
+   médicas, erros de digitação, falhas de hardware ou interpretações incorretas.
+4. DISTRIBUIÇÃO: É proibida a revenda, engenharia reversa ou modificação 
+   não autorizada deste executável.
+
+Contato: dev.solucoretech@outlook.com
+
+------------------------------------------------------------
+
+ENGLISH:
+This is the End User License Agreement (EULA) for DoseCalc Pro software.
+1. SOFTWARE NATURE: DoseCalc Pro is strictly a mathematical aid and 
+   data storage tool. The developer DOES NOT provide a drug database 
+   or dosage suggestions.
+2. RESPONSIBILITY: Any and all entered information is the sole 
+   responsibility of the licensed professional user. Manual verification 
+   of all results is MANDATORY before any clinical application.
+3. LIMITATION OF LIABILITY: SoluCore Tech is not liable for medical 
+   decisions, typing errors, hardware failures, or misinterpretations.
+4. DISTRIBUTION: Resale, reverse engineering, or unauthorized 
+   modification of this executable is strictly prohibited.
+
+Contact: dev.solucoretech@outlook.com
+============================================================
