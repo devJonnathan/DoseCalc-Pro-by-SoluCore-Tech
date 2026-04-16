@@ -3,7 +3,7 @@
            Developed by SoluCore Tech
 ============================================================
 
-Copyright (c) 2024 SoluCore Tech. All rights reserved.
+Copyright (c) 2026 SoluCore Tech. All rights reserved.
 
 PORTUGUÊS:
 Esta é a Licença de Uso Final (EULA) para o software DoseCalc Pro.
