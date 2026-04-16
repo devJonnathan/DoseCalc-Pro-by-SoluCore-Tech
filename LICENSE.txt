@@ -37,3 +37,15 @@ This is the End User License Agreement (EULA) for DoseCalc Pro software.
 
 Contact: dev.solucoretech@outlook.com
 ============================================================
+
+THIRD-PARTY SOFTWARE CREDITS:
+This software uses the following open-source libraries:
+
+1. CustomTkinter (MIT License)
+   Copyright (c) 2021 Tom Schimansky
+2. JSON, OS, SYS, CTYPES, SHUTIL, LOCALE, WINREG 
+   (Python Standard Library - Python Software Foundation License)
+
+The full text of these licenses can be found in the 
+official documentation of each respective project.
+------------------------------------------------------------
