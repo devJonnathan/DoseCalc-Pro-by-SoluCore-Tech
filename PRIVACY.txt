@@ -1,0 +1,20 @@
+DOSECALC PRO - POLÍTICA DE PRIVACIDADE / PRIVACY POLICY
+Developed by SoluCore Tech
+
+PORTUGUÊS:
+A sua privacidade é nossa prioridade. O DoseCalc Pro foi projetado para ser 100% seguro.
+
+1. COLETA DE DADOS: O aplicativo NÃO coleta, não armazena e não compartilha nenhuma informação pessoal, dados de saúde ou identificadores de dispositivo.
+2. PROCESSAMENTO LOCAL: Todo o processamento de cálculos e o banco de dados de medicamentos permanecem exclusivamente no seu computador.
+3. CONECTIVIDADE: O software funciona 100% offline. Não há comunicação com servidores externos ou serviços de telemetria.
+4. ANÚNCIOS: O aplicativo é livre de anúncios e não utiliza bibliotecas de terceiros para rastreamento.
+
+ENGLISH:
+Your privacy is our priority. DoseCalc Pro is designed to be 100% secure.
+
+1. DATA COLLECTION: The application DOES NOT collect, store, or share any personal information, health data, or device identifiers.
+2. LOCAL PROCESSING: All calculation processing and the medication database remain exclusively on your computer.
+3. CONNECTIVITY: The software works 100% offline. There is no communication with external servers or telemetry services.
+4. ADS: The application is ad-free and does not use third-party libraries for tracking.
+
+Contact: dev.solucoretech@outlook.com
